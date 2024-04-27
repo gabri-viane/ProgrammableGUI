@@ -1,0 +1,5 @@
+name: Programmable Gui
+version: '${project.version}'
+main: net.vnleng.programmablegui.ProgrammableGui
+api-version: 1.20
+website: vnl-eng.net
